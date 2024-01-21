@@ -18,6 +18,7 @@
 
 	<properties>
 		<java.version>17</java.version>
+		<spring-security.version>5.8.9</spring-security.version>
 		<itextpdf.version>5.5.13.3</itextpdf.version>
 		<assertj-core.version>3.24.2</assertj-core.version>
 		<spring-data-jdbc.version>2.4.14</spring-data-jdbc.version>
